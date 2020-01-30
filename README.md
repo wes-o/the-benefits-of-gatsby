@@ -13,4 +13,4 @@ npx serve
 
 ## View the Repo Live
 
-[gatsby-in-action](https://github.com/wes-o/gatsby-in-action)
+[gatsby-in-action](https://wes-o.github.io/the-benefits-of-gatsby/)
