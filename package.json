@@ -1,0 +1,27 @@
+{
+  "name": "the-benefits-of-gatsby",
+  "version": "0.0.1",
+  "description": "gatsby documentation presentation with BIG",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wes-o/the-benefits-of-gatsby.git"
+  },
+  "keywords": [
+    "gatsby",
+    "documentation",
+    "presentation"
+  ],
+  "author": "Wes Oler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wes-o/the-benefits-of-gatsby/issues"
+  },
+  "homepage": "https://github.com/wes-o/the-benefits-of-gatsby#readme",
+  "devDependencies": {
+    "serve": "^11.3.0"
+  }
+}
