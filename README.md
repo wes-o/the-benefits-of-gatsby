@@ -6,10 +6,11 @@ gatsby-in-action
 
 ```bash
 git clone
-git clone --recursive <project url>
+git clone --recursive https://github.com/wes-o/the-benefits-of-gatsby.git
 npm install
-npx serve src/index.html
+npx serve 
 ```
-## View the repo live
+
+## View the Repo Live
 
 [gatsby-in-action](https://github.com/wes-o/gatsby-in-action)
