@@ -5,8 +5,7 @@ gatsby-in-action
 ## View Local Version
 
 ```bash
-git clone
-git clone --recursive https://github.com/wes-o/the-benefits-of-gatsby.git
+git clone --recursive https://github.com/wes-o/the-benefits-of-gatsby.git && cd the-benefits-of-gatsby
 npm install
 npx serve 
 ```
